@@ -1,6 +1,6 @@
 # Connect Four AI
 
-This project implements an AI for the game Connect Four using the Minimax algorithm with different heuristic evaluation strategies. The AI players are capable of playing against each other or against a random move player.
+This project implements an AI for the game Connect Four using the Minimax algorithm with different heuristic evaluation strategies. The AI players are capable of playing against each other or against a random move player. There are various classes of agents. The minimax player is the focus of this project. It uses the minimax algorithm to decide on the best next move. To avoid evaluating all possible outcomes of a move, some heuristic evaluation functions are proposed. Among them, my_heuristic is the most sophisticated and has shown the best performance.
 
 ## Modules
 
